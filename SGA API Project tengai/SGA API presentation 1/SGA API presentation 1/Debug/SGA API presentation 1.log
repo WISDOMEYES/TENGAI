@@ -1,0 +1,40 @@
+﻿  stdafx.cpp
+  boss.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\boss.cpp(60): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\boss.cpp(61): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\boss.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\boss.cpp(255): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bullet.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\bullet.cpp(46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\bullet.cpp(143): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\bullet.cpp(235): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\gamenode.cpp(82): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\gamenode.cpp(83): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\image.cpp(285): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\image.cpp(284): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\image.cpp(297): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  keyManager.cpp
+  mainGame.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\maingame.h(5): warning C4005: 'PI': 매크로 재정의
+  c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\util.h(4): note: 'PI'의 이전 정의를 참조하십시오.
+  player.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(152): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(185): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(197): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(197): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(343): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(354): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(369): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  util.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\util.cpp(17): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  winAPI.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\maingame.h(5): warning C4005: 'PI': 매크로 재정의
+  c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\util.h(4): note: 'PI'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(314): warning C4715: 'player::playerlocationx': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\player.cpp(326): warning C4715: 'player::playerlocationy': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  SGA API presentation 1.vcxproj -> C:\Users\samsung\Documents\Visual Studio 2015\Projects\SGA API Project tengai\SGA API presentation 1\Debug\SGA API presentation 1.exe

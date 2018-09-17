@@ -1,0 +1,43 @@
+﻿  stdafx.cpp
+  boss.cpp
+boss.cpp(60): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+boss.cpp(61): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+boss.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+boss.cpp(255): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bullet.cpp
+bullet.cpp(46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+bullet.cpp(143): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+bullet.cpp(235): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+gameNode.cpp(82): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+gameNode.cpp(83): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.cpp
+image.cpp(94): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  image.cpp(94): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+image.cpp(131): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  image.cpp(131): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+image.cpp(174): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  image.cpp(174): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+image.cpp(222): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  image.cpp(222): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+image.cpp(292): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+image.cpp(299): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  keyManager.cpp
+  mainGame.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\mainGame.h(5): warning C4005: 'PI': 매크로 재정의
+  c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\util.h(4): note: 'PI'의 이전 정의를 참조하십시오.
+  player.cpp
+player.cpp(19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+player.cpp(152): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+player.cpp(185): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+player.cpp(197): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+player.cpp(197): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+player.cpp(343): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+player.cpp(354): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+player.cpp(369): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  util.cpp
+util.cpp(17): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  winAPI.cpp
+c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\mainGame.h(5): warning C4005: 'PI': 매크로 재정의
+  c:\users\samsung\documents\visual studio 2015\projects\sga api project tengai\sga api presentation 1\sga api presentation 1\util.h(4): note: 'PI'의 이전 정의를 참조하십시오.
